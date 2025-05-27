@@ -1,0 +1,5 @@
+
+{
+  "name": "App Release Hub",
+  "description": "A web application to manage APK/IPA file uploads, generate download links and QR codes, and simulate a code-push like environment management system for app releases. Powered by React, Tailwind CSS, and Gemini API for enhanced features."
+}
